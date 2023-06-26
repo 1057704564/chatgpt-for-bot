@@ -17,7 +17,7 @@ qrcode~=7.4.2
 openai~=0.27.4
 EdgeGPT==0.3.8.1
 aiohttp~=3.8.4
-OpenAIAuth~=0.3.6
+OpenAIAuth~=2.0.0
 urllib3~=1.26.15
 BingImageCreator~=0.4.1
 
